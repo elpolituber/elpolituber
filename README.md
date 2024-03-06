@@ -49,5 +49,7 @@
 ### :link: &nbsp;Connect with me
 
 <p align="center">
-<a href="https://www.linkedin.com/in/franco-zabala-nogales-4b7097185/">[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev)</a>
+<a href="https://www.linkedin.com/in/franco-zabala-nogales-4b7097185/">
+  <img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
 </p>
