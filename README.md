@@ -1,6 +1,6 @@
 ![Github Banner](https://github.com/Jaydeep-Yadav/Jaydeep-Yadav/blob/main/banner.png)
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="30px">, Hola Soy El Tecnólogo Franco  Zabala</h1>
+<h1 align="center">Hola <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="30px">,Soy El Tecnólogo Franco  Zabala</h1>
 
 <p align="center" width="150px">Soy Tecnólogo en desarrollador software especialista en desarrollo web,<br/> casado con la lógica de programación y adaptabilidad rápida en frameworks, base de conocimiento (java, php , js , node.js) y frameworks derivantes.</p>
 
